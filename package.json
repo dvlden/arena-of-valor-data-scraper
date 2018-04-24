@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "colors": "^1.2.1",
-    "download": "^6.2.5"
+    "download": "^6.2.5",
+    "rimraf": "^2.6.2"
   }
 }
